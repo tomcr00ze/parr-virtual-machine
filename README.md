@@ -28,5 +28,9 @@ instruction format
 
 ---
 
-15:55: stopped at this theory section, need to go back here to add more notes
-35:22 begin coding
+15:55: TODO: I stopped at this theory section, need to go back here to add more notes
+35:22 beginning of coding
+
+coding
+
+- stopped at 37:15
