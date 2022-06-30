@@ -7,7 +7,7 @@ public class VM {
 
     //registers
     int ip; //instruction pointer
-    int sp; //stack pointer
+    int sp = -1; //stack pointer, start at -1 so on increment we start at 0
     int fp; //frame
 
     public VM(int[] code, int main, int datasize) {
@@ -15,5 +15,6 @@ public class VM {
         this.code = code;
         this.ip = main;
         data = new int[datasize];
+        stack = new int[100];
     }
 }
