@@ -5,6 +5,7 @@ package com.johnamata.parrvm;
  */
 public class Bytecode {
     //bytecode instructions
+    //OPCODEs
     public static final short IADD = 1;     // int add
     public static final short ISUB = 2;
     public static final short IMUL = 3;
