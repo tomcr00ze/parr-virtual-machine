@@ -17,4 +17,8 @@ public class VM {
         data = new int[datasize];
         stack = new int[100];
     }
+
+    public void cpu(){
+        //function to execute it
+    }
 }
