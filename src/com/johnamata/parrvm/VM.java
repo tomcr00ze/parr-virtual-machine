@@ -20,5 +20,6 @@ public class VM {
 
     public void cpu(){
         //function to execute it
+        int opcode = code[ip]; //fetch
     }
 }
