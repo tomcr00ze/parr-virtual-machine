@@ -5,7 +5,10 @@ public class VM {
     int[] code; //code memory
     int[] stack;
 
-    int ip;
-    int sp;
-    int fp;
+    //registers
+    int ip; //instruction pointer
+    int sp; //stack pointer
+    int fp; //frame
+
+
 }
