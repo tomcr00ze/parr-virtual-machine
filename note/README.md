@@ -33,4 +33,4 @@ instruction format
 
 coding
 
-- stopped at 37:15
+- stopped at 43:26
