@@ -10,5 +10,8 @@ public class VM {
     int sp; //stack pointer
     int fp; //frame
 
-
+    public VM(int[] code, int main) {
+        this.code = code;
+        this.ip = main;
+    }
 }
